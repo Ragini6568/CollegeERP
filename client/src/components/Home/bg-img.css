@@ -1,0 +1,13 @@
+.bg-img {
+  /* The image used */
+  background-image: url("iacsdcampus.jpg");
+
+  /* Control the height of the image */
+  min-height: 750px;
+
+  /* Center and scale the image nicely */
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}

@@ -1,0 +1,29 @@
+.footer {
+  text-align: center;
+  overflow: hidden;
+  background-color: black;
+  padding: 10px 10px;
+}
+a:link {
+  color: Black;
+  font-size: 40;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
